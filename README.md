@@ -2,8 +2,9 @@
 Curriculum with Material
 # 🧠 Classes & Pedagogical Sequence
 
-## Class 1: Introduction to Bitcoin Script & Basic OP_CODES
-Students begin by understanding the fundamentals of Bitcoin Script, its role in the Bitcoin network, and how it enables custom transaction validation conditions without the need for trusted third parties.
+## Class 1: Presentation, short recap and overview
+Review objectives of the lesson, what students will learn, use the topic list,  why it is important to learn how Bitcoin works.
+
 
 ## Topics 
 - **Bitcoin Script and its purpose:**  How it functions as a stack-based, deterministic, and non-Turing complete programming language.
